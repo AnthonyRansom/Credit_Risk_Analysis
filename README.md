@@ -11,41 +11,41 @@ This analysis will look at various machine learning models that can be used to p
 The following provide a summary of the results of each machine learning model
 
 ### RandomOverSampler
-!(RandomOverSampler)[\analysis\naive_random_oversampling.PNG]
+![RandomOverSampler](/analysis/naive_random_oversampling.PNG)
  - The Naive Random oversampling model indicates an accuracy score of 65%
  - The Naive Random oversampling model indicates an average precision rate of  99%
  - The Naive Random oversampling model indicates an average recall rate of 58%
 
 ### SMOTE
-!(SMOTE)[\analysis\SMOTE.PNG]
+![SMOTE](/analysis/SMOTE.PNG)
 
  - The SMOTE model indicates an accuracy score of 66%
  - The SMOTE model indicates an average precision rate of 99% 
  - The SMOTE model indicates an average recall rate of 68%
 
 ### ClusterCentroids
-!(ClusterCentroids)[\analysis\cluster_centroids.PNG]
+![ClusterCentroids](/analysis/cluster_centroids.PNG)
 
  - The Cluster Centroids model indicates an accuracy score of 54%
  - The Cluster Centroids model indicates an average precision rate of 99%
  - The Cluster Centroids model indicates an average recall rate of 40%
 
 ### SMOTEENN
-!(SMOTEENN)[\analysis\SMOTENN.PNG]
+![SMOTEENN](/analysis/SMOTENN.PNG)
 
  - The SMOTEENN oversampling model indicates an accuracy score of 64%
  - The SMOTEENN Random oversampling model indicates an average precision rate of 99% 
  - The SMOTEENN Random oversampling model indicates an average recall rate 59%
  
 ### BalancedRandomForestClassifier
-!(BalancedRandomForestClassifier)[\analysis\balanced_random_forest.PNG]
+![BalancedRandomForestClassifier](/analysis/balanced_random_forest.PNG)
 
  - The Balanced Random Forest Classifier model indicates an accuracy score of 79%
  - The Balanced Random Forest Classifier indicates an average precision rate of 99% 
  - The Balanced Random Forest Classifier indicates an average recall rate 87%
  
 ### EasyEnsembleClassifier
-!(EasyEnsembleClassifier)[\analysis\Easy_Ensembler.PNG]
+![EasyEnsembleClassifier](/analysis/Easy_Ensembler.PNG)
 
  - The Easy Ensemble AdaBoost Classifier model indicates an accuracy score of 93%
  - The Easy Ensemble AdaBoost Classifier model indicates an average precision rate of 99%
